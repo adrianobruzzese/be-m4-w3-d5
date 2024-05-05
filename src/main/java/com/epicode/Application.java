@@ -79,13 +79,13 @@ public class Application {
         System.out.println(printedMaterialDAO.findById("1-9973620-8-2"));
 
         System.out.println("------ SEARCH MATERIAL BY PUBLICATION YEAR --------");
-        printedMaterialDAO.findByPublicationYear(1712).forEach(System.out::println);
+        printedMaterialDAO.findByPublicationYear(1912).forEach(System.out::println);
 
         System.out.println("------ SEARCH MATERIAL BY AUTHOR --------");
-        printedMaterialDAO.findByAuthor("Vera Negri").forEach(System.out::println);
+        printedMaterialDAO.findByAuthor("Vera Negri Zamagni").forEach(System.out::println);
 
         System.out.println("------ SEARCH MATERIAL CURRENTLY ON LOAN BY A CARD NUMBER --------");
-        loansDAO.findBorrowedItemByCardNumber(4).forEach(System.out::println);
+        loansDAO.findBorrowedItemByCardNumber(5).forEach(System.out::println);
 
         System.out.println("------ SEARCH ALL LOANS EXPIRED AND NOT YET RETURNED --------");
         loansDAO.findExpiredNotReturned().forEach(System.out::println);

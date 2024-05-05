@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02788abe-3a63-4c4a-861f-8587f123a805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Archive.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/dao/LoansDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/dao/PrintedMaterialDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/dao/UsersDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/Literature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/Periodical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/PrintedMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/PublicationFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/exceptions/IsbnNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/exceptions/MaterialNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epicode/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epicode/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epicode/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epicode/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epicode/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
